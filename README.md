@@ -3,7 +3,7 @@
 <br>
 
 ### Thank you for coming!<br>
-I'm a Computer Engineering major:computer:
+### I'm a Computer Engineering major:computer:
 <br>
 <br>
 <br>
