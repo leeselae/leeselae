@@ -6,8 +6,8 @@
 ### I'm a Computer Engineering major:computer:
 <br>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeselae&layout=compact&theme=merko">
     <img src="https://github-readme-stats.vercel.app/api?username=leeselae&show_icons=true&theme=merko&card_width=400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeselae&layout=compact&theme=merko">
 </p>
 <br>
 <br>
