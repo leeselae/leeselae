@@ -28,6 +28,13 @@
 
 <br>
 <br>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=leeselae&theme=tokyonight&show_icons=true" width="42%" />
+
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+</a>
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leeselae&theme=tokyonight)](https://git.io/streak-stats)
 
 
