@@ -1,5 +1,13 @@
 Thank you for coming!<br>
-I'm a Computer Engineering major
-<img src="https://img.shields.io/badge/GNOME Terminal-3178C6?style=flat&logo=TypeScript&logoColor=#241F31"/>
+I'm a Computer Engineering major:computer:
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<hr/>
+
+** Tech Stack **
+<img src="https://img.shields.io/badge/C-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+
+
