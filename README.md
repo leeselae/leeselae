@@ -10,7 +10,7 @@
 </p>
 <br>
 <br>
-<br>
+
 ### :notebook: Skills
 #### Platforms & Languages
 <p>
