@@ -5,6 +5,9 @@
 ### Thank you for coming:wave:    
 ### I'm a Computer Engineering major:computer:
 <br><br>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=leeselae&theme=tokyonight&show_icons=true" width="42%" />
+</p>
 
 ### :notebook: Skills
 #### Platforms & Languages
@@ -27,9 +30,7 @@
 
 <br>
 <br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=leeselae&theme=tokyonight&show_icons=true" width="42%" />
-</p>
+
 
 
 
