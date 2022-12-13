@@ -1,4 +1,4 @@
-Thank you for comming!
+Thank you for comming!<br>
 I'm a Computer Engineering major
 <img src="https://img.shields.io/badge/GNOME Terminal-3178C6?style=flat&logo=TypeScript&logoColor=#241F31"/>
 
