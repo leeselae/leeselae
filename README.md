@@ -29,7 +29,7 @@
 <br>
 <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=leeselae&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leeselae&theme=tokyonight&show_icons=true" width="42%" /><br>
   <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </p>
 
