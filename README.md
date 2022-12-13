@@ -29,7 +29,6 @@
 <br>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=leeselae&theme=tokyonight&show_icons=true" width="42%" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeselae&layout=compact&theme=merko &langs_count=6)] />
 </p>
 
 
