@@ -10,7 +10,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeselae&layout=compact&theme=merko">
 </p>
 <br>
-<br>
 
 ### :notebook: Skills
 #### Platforms & Languages
