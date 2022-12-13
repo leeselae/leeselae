@@ -1,7 +1,6 @@
 ### Thank you for coming!<br>
 I'm a Computer Engineering major:computer:
 
-<hr>   
 
 ## Tech Stack 
 <img src="https://img.shields.io/badge/C-1E90FF?style=flat-flat&logo=C&logoColor=white"/>
