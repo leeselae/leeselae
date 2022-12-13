@@ -9,9 +9,7 @@ I'm a Computer Engineering major:computer:
 
 
 ### Tools
-<img src="https://img.shields.io/badge/Eclipse IDE-525C86?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-4B0082?style=flat-square&logo=Git&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Eclipse IDE-525C86?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Git-4B0082?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
 
 
 
