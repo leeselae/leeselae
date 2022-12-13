@@ -2,7 +2,7 @@
 <br>
 <br>
 
-### Thank you for coming!<br>
+### Thank you for coming:wave:    
 ### I'm a Computer Engineering major:computer:
 <br><br>
 
